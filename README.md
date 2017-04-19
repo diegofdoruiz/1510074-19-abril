@@ -3,5 +3,5 @@
 - El comando ps -A | wc -l muestra el número de procesos en curso
 
 ```
-ps -a | wc -l
+ps -A | wc -l
 ```
