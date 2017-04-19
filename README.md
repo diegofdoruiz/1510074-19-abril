@@ -5,3 +5,8 @@
 ```
 ps -A | wc -l
 ```
+- Solución para mostrar 2^4
+```
+export TOTAL=$((2**4))
+echo $TOTAL
+```
